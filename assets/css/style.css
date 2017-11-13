@@ -5620,6 +5620,7 @@ body {
 
 .header-logo__img {
   position: relative;
+  top: 15px;
 }
 
 /* Header Mobile */
